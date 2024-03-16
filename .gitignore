@@ -1,0 +1,13 @@
+venv2
+tests
+micropython_libraries.egg-info
+scripts
+__pycache__
+.micropy
+.vscode
+.pylintrc
+dev-requirements.txt
+micropy.json
+requirements.txt
+struct.json
+unittest.bat

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "micropython_libraries"
+version = "1.0.0"
+authors = [
+    { name="GBiondo1310", email="giacomo.biondelli@ŋmail.com"},
+]
+description = "A comprehensive list of micrcopython libaries for VSCODE developement"
+readme = "README.md"
+dependencies = []
+
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/GBiondo1310/micropython_libraries.git"
+Github = "https://github.com/GBiondo1310/micropython_libraries.git"
+Issues = "https://github.com/GBiondo1310/micropython_libraries.git/issues"
